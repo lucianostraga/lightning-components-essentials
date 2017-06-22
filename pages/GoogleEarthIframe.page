@@ -37,7 +37,7 @@
             });
         }
         </script>
-      <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB7xdyuh0TONXhz0tnd-k0Nhli732_3jAg&callback=initMap" async="true" defer="true"></script>
+      <script src="https://maps.googleapis.com/maps/api/js?key=GOOGLE_API_KEY" async="true" defer="true"></script>
     </body>
   </html>
 </apex:page>
